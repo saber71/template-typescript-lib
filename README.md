@@ -1,2 +1,2 @@
-# vite-remote-antd
-可通过websocket在页面上渲染vue-antd组件库
+# typescript-lib
+作为typescript库的模板
